@@ -1,4 +1,4 @@
-# Boston House Pricing
+# Location based House Price Prediction model
 
 
 ### Software and tools requirement
